@@ -1,0 +1,51 @@
+TOUCH(1)             User Commands            TOUCH(1)
+
+NAME
+       touch - change file timestamps
+
+LS(1)                User Commands               LS(1)
+
+NAME
+       ls - list directory contents
+
+CAT(1)               User Commands              CAT(1)
+
+NAME
+       cat  - concatenate files and print on the stan‐
+       dard output
+MKDIR(1)             User Commands            MKDIR(1)
+
+NAME
+       mkdir - make directories
+
+MAN(1)            Manual pager utils            MAN(1)
+
+NAME
+       man - an interface to the system reference man‐
+       uals
+
+NANO(1)         General Commands Manual        NANO(1)
+
+NAME
+       nano - Nano's ANOther editor, inspired by Pico
+
+VIM(1)          General Commands Manual         VIM(1)
+
+NAME
+       vim - Vi IMproved, a programmer's text editor
+
+CP(1)                User Commands               CP(1)
+
+NAME
+       cp - copy files and directories
+
+MV(1)                User Commands               MV(1)
+
+NAME
+       mv - move (rename) files
+
+RM(1)                User Commands               RM(1)
+
+NAME
+       rm - remove files or directories
+

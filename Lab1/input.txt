@@ -1,0 +1,5 @@
+this is the input file.
+please convert this into capital letters.
+great.
+thanks.
+
