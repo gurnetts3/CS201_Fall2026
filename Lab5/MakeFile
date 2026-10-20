@@ -1,0 +1,11 @@
+CC = gcc
+CFLAGS = -Wall -std=c99
+
+lab5E1: lab5E1.c
+	$(CC) $(CFLAGS) $^ -o $@
+
+lab5E2: lab5E2.c
+	$(CC) $(CFLAGS) $^ -o $@
+
+lab5E3-1:
+	$(CC) $(CFLAGS) $^ -o $@
